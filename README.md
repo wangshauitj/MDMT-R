@@ -1,4 +1,6 @@
-# Multi-domain Multi-task Rehearsal for Lifelong Learning
+# Multi-domain Multi-task Rehearsal for Lifelong Learning (AAAI-2021)
+Fan Lyu, Shuai Wang, Wei Feng, Zihan Ye, Fuyuan Hu, Song Wang
+
 ### 
 
 ## Abstract
